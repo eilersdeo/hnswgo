@@ -1,4 +1,4 @@
-package main
+package hnswgo
 
 // #cgo CXXFLAGS: -fPIC -pthread -Wall -std=c++0x -std=c++11 -O2 -march=native -I./
 // #include <stdlib.h>
